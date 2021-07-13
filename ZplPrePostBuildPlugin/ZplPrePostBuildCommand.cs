@@ -232,6 +232,7 @@ namespace YoYoStudio
             public class ZplPrePostBuildCommand : IModule, IDisposable
             {
                 public ModulePackage IdeInterface { get; set; }
+                public ModulePackage Package => IdeInterface;
 
                 public static string PreBuildScript;
                 public static string PostBuildScript;
