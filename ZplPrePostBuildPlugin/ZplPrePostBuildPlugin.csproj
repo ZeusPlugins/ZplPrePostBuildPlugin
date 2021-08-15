@@ -56,13 +56,13 @@
       <HintPath>..\packages\Lib.Harmony.2.0.4\lib\net45\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="CoreResources">
-      <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\GameMaker Studio 2 Desktop\CoreResources.dll</HintPath>
+      <HintPath>..\..\..\..\Progs\GameMakerStudio\23\IDE\CoreResources.dll</HintPath>
     </Reference>
     <Reference Include="IDE">
-      <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\GameMaker Studio 2 Desktop\IDE.dll</HintPath>
+      <HintPath>..\..\..\..\Progs\GameMakerStudio\23\IDE\IDE.dll</HintPath>
     </Reference>
     <Reference Include="Utils">
-      <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\GameMaker Studio 2 Desktop\Utils.dll</HintPath>
+      <HintPath>..\..\..\..\Progs\GameMakerStudio\23\IDE\Utils.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
